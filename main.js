@@ -135,7 +135,7 @@ function handleImgError(img) {
 
   if (!form) return;
 
-  var CONTACT_EMAIL = 'gobabsaweedo@gmail.com';
+  var CONTACT_EMAIL = 'YOUR_EMAIL@example.com';
 
   form.addEventListener('submit', function (event) {
     event.preventDefault();

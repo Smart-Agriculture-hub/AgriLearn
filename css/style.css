@@ -46,7 +46,7 @@ body {
 
 
 img {
-  max-width: 100%;
+  max-width: 50%;
   display: block;
 }
 
@@ -80,7 +80,7 @@ h4 {
 
 h1 {
   font-size: clamp(2rem, 4.5vw, 3rem);
-  font-weight: 900;
+  font-weight: 900; text-alignment: center;
 }
 
 
